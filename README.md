@@ -48,7 +48,7 @@
 <h2>💡 Motto</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=800&lines=Transforming+data+into+decisions.;Designing+tech+with+purpose+and+impact.;Build.+Break.+Learn.+Repeat.;Your+data+has+a+story.+I+help+tell+it."/>
+
 </p>
 
 <h2>🛠️ Tech Stack (Grouped)</h2>
