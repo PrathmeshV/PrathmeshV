@@ -16,12 +16,12 @@
 
 <h2>🚀 About Me</h2>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif">
 
 <pre>
 💡  Hello World! I'm Prathmesh Vaidya
 
-🎓  Currently: [Your Current Role or University]
+🎓  Currently: PG Diploma student @ CDAC Kharghar
 
 ⚒️  What I love building:
      → Data Dashboards     → Predictive Models
@@ -45,11 +45,6 @@
 
 📚 Currently exploring cloud-native ML, LLMs, and advanced data visualization
 
-<h2>💡 Motto</h2>
-
-<p align="center">
-
-</p>
 
 <h2>🛠️ Tech Stack (Grouped)</h2>
 
