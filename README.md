@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/prathmesh-vaidya-14580621a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/PrathmeshV" target="_blank">
+<a href="https://prathmesh-ai-space.lovable.app" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </p>
@@ -21,7 +21,7 @@
 <pre>
 💡  Hello World! I'm Prathmesh Vaidya
 
-🎓  Currently: PG Diploma student @ CDAC Kharghar
+🎓  Completed: PG Diploma student @ CDAC Kharghar
 
 ⚒️  What I love building:
      → Data Dashboards     → Predictive Models
@@ -31,7 +31,7 @@
 
 🌟  Philosophy: Always be learning. Build to solve problems.
 
-🔗  Portfolio: https://github.com/PrathmeshV
+🔗  Portfolio: https://github.com/PrathmeshV](https://prathmesh-ai-space.lovable.app
 
 </pre>
 
