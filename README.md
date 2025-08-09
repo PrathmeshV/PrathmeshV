@@ -31,7 +31,7 @@
 
 🌟  Philosophy: Always be learning. Build to solve problems.
 
-🔗  Portfolio: https://github.com/PrathmeshV](https://prathmesh-ai-space.lovable.app
+🔗  Portfolio:https://prathmesh-ai-space.lovable.app
 
 </pre>
 
